@@ -124,7 +124,6 @@ body {
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     height: 500px;
-    box-shadow: 4px 1px 40px grey;
 }
 .workssection {
     margin-left: 50px;
@@ -202,16 +201,15 @@ button[type="submit"] {
     font-size: 18px;
     padding-bottom: 30px;
 }
-
-
 .buttontext {
     width: 313px;
     height: 80px;
     background-color: #FFCF19;
     border-radius: 13px;
+    color: #fff;
 }
 .first-text {
-    font-size: 11px;
+    font-size: 13px;
 }
 .last-text {
     font-size: 20px;
